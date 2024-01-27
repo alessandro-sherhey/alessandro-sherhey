@@ -1,14 +1,21 @@
 ### Hi there 👋
 
-🧠 What I know:
-- HTML 
+🧠 Things I know:
+- HTML
 - CSS
 - JavaScript
   - React
+- Markdown
+  
  
 🌱 I’m currently learning...
 - Python
 - C++
+
+⭐️ Things I want to learn...
+- Swift
+- Using zsh _(i just know basic commands such as `cd`, `ls` or `mkdir`)_
+
 
 <-- _AI generated profile image_
 
