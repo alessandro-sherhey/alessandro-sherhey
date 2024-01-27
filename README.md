@@ -15,6 +15,7 @@
 - Swift
 - Using zsh _(i just know basic commands such as `cd`, `ls` or `mkdir`)_
 - Regex
+- Git _(just like zsh i know basic commands like `git commit`, `push`, `pull`, etc...)_
 
 
 <-- _AI generated profile image_
