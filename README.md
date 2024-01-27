@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+🧠 What I know:
+- HTML 
+- CSS
+- JavaScript
+  - React
+ 
+🌱 I’m currently learning...
+- Python
+- C++
+
+<-- _AI generated profile image_
+
+ 
+
 <!--
 **alessandro-sherhey/alessandro-sherhey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
