@@ -6,8 +6,7 @@
 - JavaScript
   - React
 - Markdown
-  
- 
+
 🌱 I’m currently learning...
 - Python
 - C++
@@ -15,6 +14,7 @@
 ⭐️ Things I want to learn...
 - Swift
 - Using zsh _(i just know basic commands such as `cd`, `ls` or `mkdir`)_
+- Regex
 
 
 <-- _AI generated profile image_
